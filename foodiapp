@@ -1,0 +1,21 @@
+foodie-app/
+ ├─ App.tsx
+ ├─ package.json
+ ├─ app.json
+ ├─ tsconfig.json
+ ├─ expo-env.d.ts
+ └─ src/
+     ├─ navigation/
+     │    └─ index.tsx
+     ├─ components/
+     │    └─ BackButton.tsx
+     ├─ store/
+     │    └─ recipes.ts
+     ├─ screens/
+     │    ├─ MainFeed.tsx
+     │    ├─ RecipeDetails.tsx
+     │    ├─ Favorites.tsx
+     │    ├─ MyFood.tsx
+     │    └─ EditRecipe.tsx
+     └─ utils/
+          └─ storage.ts
